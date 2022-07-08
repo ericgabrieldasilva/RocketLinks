@@ -1,3 +1,4 @@
+![cover](https://user-images.githubusercontent.com/57693018/177909449-13bc892b-2666-4592-91c9-e46065602ba6.png)
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
